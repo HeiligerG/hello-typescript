@@ -142,6 +142,7 @@ Bevor du beginnst, stelle sicher, dass du folgende Software installiert hast:
 ## Visual Studio Code-Empfehlungen
 
 Falls du VS Code nutzt, installiere folgende Erweiterungen für besseren Support:
+
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
@@ -168,4 +169,3 @@ Falls du VS Code nutzt, installiere folgende Erweiterungen für besseren Support
 ## Lizenz
 
 Dieses Projekt steht unter der **MIT-Lizenz**.
-
